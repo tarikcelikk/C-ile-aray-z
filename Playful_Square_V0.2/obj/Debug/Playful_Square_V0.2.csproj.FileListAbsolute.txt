@@ -1,0 +1,11 @@
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\bin\Debug\Playful_Square_V0.2.exe.config
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\bin\Debug\Playful_Square_V0.2.exe
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\bin\Debug\Playful_Square_V0.2.pdb
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\obj\Debug\Playful_Square_V0.2.csproj.AssemblyReference.cache
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\obj\Debug\Playful_Square_V0.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\obj\Debug\Playful_Square_V0._2.Form1.resources
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\obj\Debug\Playful_Square_V0._2.Properties.Resources.resources
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\obj\Debug\Playful_Square_V0.2.csproj.GenerateResource.cache
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\obj\Debug\Playful_Square_V0.2.csproj.CoreCompileInputs.cache
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\obj\Debug\Playful_Square_V0.2.exe
+C:\Users\Tarik\source\repos\Playful_Square_V0.2\Playful_Square_V0.2\obj\Debug\Playful_Square_V0.2.pdb
